@@ -39,4 +39,4 @@ you can **UPLOAD** the    ***BUTTON SPEED CONTROL CODE***   to             ***YO
 
 
 
-#Osman Alperen Kayasaroglu
+# *Osman Alperen Kayasaroglu*
