@@ -11,13 +11,11 @@ If you look at the "**Button_Speed_Control**" folder, you will find an **Arduino
 
 If you look at the "**Fritzing Button Input Arduino**" folder, you will find **Fritzing drawing of Button Input** on **Arduino UNO**
 
-## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
 
-## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
 
 ## If you connect;
 
-L298N Motor Driver's           **en1** pin            to             Arduino's **3rd** pin
+[x] L298N Motor Driver's           **en1** pin            to             Arduino's **3rd** pin
 
 L298N Motor Driver's           **en2** pin            to             Arduino's **4th** pin
 
