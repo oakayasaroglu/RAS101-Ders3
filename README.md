@@ -15,7 +15,8 @@ If you look at the "**Fritzing Button Input Arduino**" folder, you will find **F
 
 ## If you connect;
 
-[x] L298N Motor Driver's           **en1** pin            to             Arduino's **3rd** pin
+
+L298N Motor Driver's           **en1** pin            to             Arduino's **3rd** pin
 
 L298N Motor Driver's           **en2** pin            to             Arduino's **4th** pin
 
