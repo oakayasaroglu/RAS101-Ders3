@@ -22,13 +22,13 @@ L298N Motor Driver's           **in2** pin            to             Arduino's *
 L298N Motor Driver's           **in3** pin            to             Arduino's **7th** pin
 L298N Motor Driver's           **in4** pin            to             Arduino's **9th** pin
 
-                                                  and
+    and
                                         
 ONE BUTTON   (shift up)                           to             Arduino's 10th pin                                        
 ONE BUTTON   (shift down)                         to             Arduino's 11st pin  
 
 
-you can UPLOAD the    ***BUTTON SPEED CONTROL CODE***   to             ***YOUR ARDUINO*** MicroController
+you can **UPLOAD** the    ***BUTTON SPEED CONTROL CODE***   to             ***YOUR ARDUINO*** MicroController
 
 
 
