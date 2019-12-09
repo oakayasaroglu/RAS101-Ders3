@@ -1,4 +1,5 @@
 # RAS101-Ders3
+AYBU IEEE Öğrenci Kolu RAS Komitesi
 
 In this repository we're controlling ***L298N motor drivers***, 
 
@@ -10,8 +11,9 @@ If you look at the "**Button_Speed_Control**" folder, you will find an **Arduino
 
 If you look at the "**Fritzing Button Input Arduino**" folder, you will find **Fritzing drawing of Button Input** on **Arduino UNO**
 
+## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
 
-
+## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
 
 ## If you connect;
 
