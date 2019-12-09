@@ -29,7 +29,8 @@ L298N Motor Driver's           **in4** pin            to             Arduino's *
 
     and
                                         
-ONE BUTTON   (shift up)                           to             Arduino's 10th pin                                        
+ONE BUTTON   (shift up)                           to             Arduino's 10th pin                
+
 ONE BUTTON   (shift down)                         to             Arduino's 11st pin  
 
 
